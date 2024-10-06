@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-52c5c874432f13b56cd2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DnD",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DnD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DnD-Release-9bfcdd317a29d34b4363.json",
+					"name" : "DnD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DnD_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DnD_autogen-Release-59919273637f92ef0d36.json",
+					"name" : "DnD_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DnD_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DnD_autogen_timestamp_deps-Release-80816f6d3bb29473e39a.json",
+					"name" : "DnD_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Projects/DnD/DnD/build/Desktop_Qt_6_7_3_MinGW_64_bit-Release",
+		"source" : "D:/Projects/DnD/DnD"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,967 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "DnD.exe"
+		},
+		{
+			"path" : "DnD.pdb"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"_qt_internal_create_executable",
+			"qt6_add_executable",
+			"qt_add_executable",
+			"install",
+			"target_link_libraries",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"find_dependency",
+			"_qt_internal_find_qt_dependencies",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"D:/Qt/6.7.3/mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"CMakeLists.txt",
+			"D:/Qt/6.7.3/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake",
+			"D:/Qt/6.7.3/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake",
+			"D:/Qt/6.7.3/mingw_64/lib/cmake/Qt6/Qt6Config.cmake",
+			"D:/Qt/6.7.3/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
+			"D:/Qt/6.7.3/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+			"D:/Programs/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+			"D:/Qt/6.7.3/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"D:/Qt/6.7.3/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake",
+			"D:/Qt/6.7.3/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake",
+			"D:/Qt/6.7.3/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake",
+			"D:/Qt/6.7.3/mingw_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake",
+			"D:/Qt/6.7.3/mingw_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake",
+			"D:/Qt/6.7.3/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 30,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 875,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 575,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 634,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 81,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 64,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"file" : 4,
+				"parent" : 7
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 169,
+				"parent" : 8
+			},
+			{
+				"file" : 3,
+				"parent" : 9
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 55,
+				"parent" : 10
+			},
+			{
+				"file" : 2,
+				"parent" : 11
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 61,
+				"parent" : 12
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 576,
+				"parent" : 2
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 43,
+				"parent" : 10
+			},
+			{
+				"file" : 9,
+				"parent" : 15
+			},
+			{
+				"command" : 10,
+				"file" : 9,
+				"line" : 42,
+				"parent" : 16
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 111,
+				"parent" : 17
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 18
+			},
+			{
+				"file" : 6,
+				"parent" : 19
+			},
+			{
+				"command" : 7,
+				"file" : 6,
+				"line" : 57,
+				"parent" : 20
+			},
+			{
+				"file" : 5,
+				"parent" : 21
+			},
+			{
+				"command" : 6,
+				"file" : 5,
+				"line" : 61,
+				"parent" : 22
+			},
+			{
+				"command" : 7,
+				"file" : 6,
+				"line" : 45,
+				"parent" : 20
+			},
+			{
+				"file" : 12,
+				"parent" : 24
+			},
+			{
+				"command" : 10,
+				"file" : 12,
+				"line" : 42,
+				"parent" : 25
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 111,
+				"parent" : 26
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 27
+			},
+			{
+				"file" : 11,
+				"parent" : 28
+			},
+			{
+				"command" : 7,
+				"file" : 11,
+				"line" : 55,
+				"parent" : 29
+			},
+			{
+				"file" : 10,
+				"parent" : 30
+			},
+			{
+				"command" : 6,
+				"file" : 10,
+				"line" : 61,
+				"parent" : 31
+			},
+			{
+				"command" : 6,
+				"file" : 10,
+				"line" : 76,
+				"parent" : 31
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 111,
+				"parent" : 17
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 34
+			},
+			{
+				"file" : 14,
+				"parent" : 35
+			},
+			{
+				"command" : 7,
+				"file" : 14,
+				"line" : 55,
+				"parent" : 36
+			},
+			{
+				"file" : 13,
+				"parent" : 37
+			},
+			{
+				"command" : 6,
+				"file" : 13,
+				"line" : 61,
+				"parent" : 38
+			},
+			{
+				"command" : 11,
+				"file" : 1,
+				"line" : 25,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-O3 -DNDEBUG -std=gnu++20 -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 14,
+					"define" : "MINGW_HAS_SECURE_API=1"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "QT_NEEDS_QMAIN"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "QT_NO_DEBUG"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "D:/Projects/DnD/DnD/build/Desktop_Qt_6_7_3_MinGW_64_bit-Release/DnD_autogen/include"
+				},
+				{
+					"backtrace" : 40,
+					"path" : "D:/Projects/DnD/DnD/class"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "D:/Qt/6.7.3/mingw_64/include/QtCore"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "D:/Qt/6.7.3/mingw_64/include"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "D:/Qt/6.7.3/mingw_64/mkspecs/win32-g++"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "D:/Qt/6.7.3/mingw_64/include/QtWidgets"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "D:/Qt/6.7.3/mingw_64/include/QtGui"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					14,
+					14
+				],
+				"standard" : "20"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				6,
+				8,
+				10,
+				12,
+				14,
+				16,
+				18,
+				20,
+				22,
+				24,
+				26,
+				28,
+				30,
+				32,
+				34,
+				36,
+				38,
+				40,
+				42,
+				44,
+				46,
+				48,
+				50,
+				52,
+				54,
+				56,
+				58
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "DnD_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "DnD_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "DnD::@6890427a1f51a3e7e1df",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 5,
+				"path" : "bin"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "C:/Program Files (x86)/DnD"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-O3 -DNDEBUG",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-mwindows",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "D:\\Qt\\6.7.3\\mingw_64\\lib\\libQt6Widgets.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "D:\\Qt\\6.7.3\\mingw_64\\lib\\libQt6Gui.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "D:\\Qt\\6.7.3\\mingw_64\\lib\\libQt6Core.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "-lmpr",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "-luserenv",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "-lmingw32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "D:\\Qt\\6.7.3\\mingw_64\\lib\\libQt6EntryPoint.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 33,
+				"fragment" : "-lshell32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 39,
+				"fragment" : "-ld3d11",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 39,
+				"fragment" : "-ldxgi",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 39,
+				"fragment" : "-ldxguid",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 39,
+				"fragment" : "-ld3d12",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "DnD",
+	"nameOnDisk" : "DnD.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				6,
+				8,
+				10,
+				12,
+				14,
+				16,
+				18,
+				20,
+				22,
+				24,
+				26,
+				28,
+				30,
+				32,
+				34,
+				36,
+				38,
+				40,
+				42,
+				44,
+				46,
+				48,
+				50,
+				52,
+				54,
+				56,
+				58
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				3,
+				7,
+				9,
+				11,
+				13,
+				15,
+				17,
+				19,
+				21,
+				23,
+				25,
+				27,
+				29,
+				31,
+				33,
+				35,
+				37,
+				39,
+				41,
+				43,
+				45,
+				47,
+				49,
+				51,
+				53,
+				55,
+				57,
+				59,
+				60
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				4,
+				5,
+				61
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				62
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_3_MinGW_64_bit-Release/DnD_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "mainwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "mainwindow.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"path" : "DnD_ru_RU.ts",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/network/networksendable.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/network/networksendable.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/item/inventoryitem.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/item/inventoryitem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/item/itemrarity.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/item/itemrarity.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/general/color.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/general/color.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/general/image.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/general/image.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/general/languagestring.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/general/languagestring.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entities/hero.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entities/hero.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entities/monster.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entities/monster.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entities/entityMembers/ability.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entities/entityMembers/ability.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entities/entityMembers/attribute.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entities/entityMembers/attribute.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entities/entityMembers/attributeexample.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entities/entityMembers/attributeexample.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entities/entityMembers/class.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entities/entityMembers/class.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entities/entityMembers/equipmentsystem.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entities/entityMembers/equipmentsystem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entities/entityMembers/healtheffect.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entities/entityMembers/healtheffect.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entities/entityMembers/healtheffecttype.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entities/entityMembers/healtheffecttype.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entities/entityMembers/inventory.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entities/entityMembers/inventory.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entities/entityMembers/levelsystem.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entities/entityMembers/levelsystem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entities/entityMembers/race.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entities/entityMembers/race.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entities/entityMembers/skill.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entities/entityMembers/skill.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entities/entityMembers/attributes/baseattribute.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entities/entityMembers/attributes/baseattribute.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entities/entityMembers/attributes/damageattribute.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entities/entityMembers/attributes/damageattribute.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entities/entityMembers/attributes/defenceattribute.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entities/entityMembers/attributes/defenceattribute.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entities/entityMembers/attributes/derivedattribute.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entities/entityMembers/attributes/derivedattribute.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/entity.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/entity.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/game.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/game.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/map.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/map.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "class/quest.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "class/quest.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_3_MinGW_64_bit-Release/DnD_autogen/include/ui_mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_3_MinGW_64_bit-Release/DnD_autogen/timestamp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_3_MinGW_64_bit-Release/DnD_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "EXECUTABLE"
+}
